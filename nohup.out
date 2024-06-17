@@ -1,0 +1,9 @@
+yarn run v1.22.19
+$ docusaurus start --host 10.64.29.52 --port 3000 --no-open
+
+╭──────────────────────────────────────────────────────────────────────────────╮│                                                                              ││                        Update available 2.4.3 → 3.4.0                        ││                                                                              ││       To upgrade Docusaurus packages with the latest version, run the        ││                             following command:                               ││   `yarn upgrade @docusaurus/core@latest @docusaurus/preset-classic@latest    ││                   @docusaurus/module-type-aliases@latest`                    ││                                                                              │╰──────────────────────────────────────────────────────────────────────────────╯
+
+[INFO] Starting the development server...
+Warn: `blogDir` doesn't exist: "/mnt/data/xgs/doc/rdk_x3_doc-develop/blog".
+[ERROR] Something is already running on port 3000.
+Done in 1.10s.
