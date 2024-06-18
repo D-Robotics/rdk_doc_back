@@ -1,8 +1,8 @@
 ---
-sidebar_position: 6
+sidebar_position: 1
 ---
 
-# 5.6 深度学习巡线小车
+# 6.1 深度学习巡线小车
 
 ```mdx-code-block
 import Tabs from '@theme/Tabs';
