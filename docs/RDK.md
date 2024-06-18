@@ -1,6 +1,6 @@
 ---
 slug: /
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # 地平线RDK套件
