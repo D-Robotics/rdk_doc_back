@@ -1,8 +1,8 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# 静态图片推理
+# 4.1.3 静态图片推理
 
 ## 图像分类算法—Mobilenet v1
 

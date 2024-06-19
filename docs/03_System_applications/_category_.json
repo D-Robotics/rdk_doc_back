@@ -1,9 +1,9 @@
 {
-  "label": "3.4 系统应用",
+  "label": "3 系统应用",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "slug": "/03_System_applications",
+    "slug": "/System_applications",
     "description": "系统入门应用，包括图像输入，音频输入以及接口开发等"
   }
 }

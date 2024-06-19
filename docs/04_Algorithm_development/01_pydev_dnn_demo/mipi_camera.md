@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
-# 基于MIPI摄像头推理
+# 4.1.5 基于MIPI摄像头推理
 
 ## 目标检测算法—fcos
 

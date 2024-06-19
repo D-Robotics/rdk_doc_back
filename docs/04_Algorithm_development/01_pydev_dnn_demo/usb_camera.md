@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
-# 基于USB摄像头推理{#usb}
+# 4.1.4 基于USB摄像头推理{#usb}
 
 ## 目标检测算法—fcos
 
