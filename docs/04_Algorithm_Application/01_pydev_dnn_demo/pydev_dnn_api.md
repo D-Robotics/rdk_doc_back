@@ -1,8 +1,8 @@
 ---
-sidebar_position: 46
+sidebar_position: 6
 ---
 
-# 4.41.6 模型推理接口说明
+# 4.1.6 模型推理接口说明
 
 ## 概要介绍
 

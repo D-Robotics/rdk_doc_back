@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# RDK X3 Module音频板使用指南
+# 3.2.2 RDK X3 Module音频板使用指南
 RDK X3 Module目前提供对**Audio Driver HAT**、**WM8960 Audio HAT**两款音频转接板的支持，用于满足不同语音场景的功能需求，下面将对两种音频板的使用方法进行详细介绍。
 
 :::note 提示
